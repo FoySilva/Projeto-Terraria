@@ -1,0 +1,26 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	EspadaLendaria: {
+		DisplayName: My Espada Lendaria
+		Tooltip:
+			'''
+			My Espada Lendaria
+			minha primeria espada
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			minha primeira espada
+			'''
+	}
+
+	CustomBow: {
+		DisplayName: Custom Bow
+		Tooltip: ""
+	}
+
+	CustomMagicWeapon: {
+		DisplayName: Custom Magic Weapon
+		Tooltip: ""
+	}
+}

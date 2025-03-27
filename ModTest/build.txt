@@ -1,0 +1,3 @@
+displayName = Mod test
+author = Foy
+version = 0.1
